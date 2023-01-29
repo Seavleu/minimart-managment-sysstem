@@ -10,3 +10,7 @@ However, I am working on improving it.
 **What to focus?** Form, Table, Query, and Relationship Manipulation. As long as you understanding the properties, table relation, and code I used in each form you will be able to easily manipulate the form based on your preference. 
 
 **Note:** Make sure to always re-check datatype and Filename between tables that have relationships with each others!
+
+
+
+Watch Project Demo here: https://jennyheang.com/profolio.html
