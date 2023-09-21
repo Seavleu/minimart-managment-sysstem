@@ -4,6 +4,25 @@ Welcome to the Mart Management System project! This system is built using Micros
 
 # Data Structure
 ![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/53924b55-2c07-4fad-b328-b6f453dc14b1)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/7e16f122-4f48-4701-b352-2b2a58ffaf9b)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/176807c2-b388-4f00-be05-7d82d8c77cee)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/e4ce5950-146d-4b10-9e0e-f7be15a62455)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/24665862-a54e-4a74-b933-e7b9b396e9c6)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/92d536ad-80da-4678-8be1-e0caecbab056)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/470c9b68-01bf-48ab-ae62-aa3193366cc4)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/cc0452c9-d64e-4ed4-b945-bcdeb6555bcc)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/663749d0-0185-4527-b183-daaf3e50fdd8)
+
+
+# Features
 ## Authentication Form
 ![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/d21fe5d5-b24f-4f69-96ae-b09205e284f6)
 ## Dashboard
