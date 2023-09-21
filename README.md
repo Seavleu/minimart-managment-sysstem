@@ -2,6 +2,7 @@
 
 Welcome to the Mart Management System project! This system is built using Microsoft Access and incorporates some VB (Visual Basic) and Macro elements. The project aims to manage various aspects of a mart or store, such as products, inventory, sales, and customers. Although the system might not be fully functional yet, you can contribute to its improvement and gain experience in database design and manipulation.
 
+**System Design is Below**
 
 ## Principles to Focus on:
 
