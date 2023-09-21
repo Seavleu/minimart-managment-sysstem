@@ -2,6 +2,42 @@
 
 Welcome to the Mart Management System project! This system is built using Microsoft Access and incorporates some VB (Visual Basic) and Macro elements. The project aims to manage various aspects of a mart or store, such as products, inventory, sales, and customers. Although the system might not be fully functional yet, you can contribute to its improvement and gain experience in database design and manipulation.
 
+#Data Structure
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/53924b55-2c07-4fad-b328-b6f453dc14b1)
+## Authentication Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/d21fe5d5-b24f-4f69-96ae-b09205e284f6)
+## Dashboard
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/f087b82b-7785-4442-8e8d-7b2d259c1dbd)
+## Employee Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/e0044691-435d-493a-8725-f62542d33e4c)
+## Employee's salary Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/3f6f9f23-aacc-47ba-87e1-5b0b8958f0f0)
+## Customer Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/2e03e088-0c43-4d0f-bc11-f9f788fd3776)
+## Product Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/e3a86789-6d46-43f1-a6f6-96de9be668ed)
+## Product List Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/a0dd27d4-023e-4c5d-b110-ebb2205e563e)
+## Supliers Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/0b9e6483-5e3f-423a-895a-9bc9a232801e)
+## Purchase Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/b6cd21ad-1763-4141-8b26-bbea047bb5dd)
+## Order Form
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/2eb247bc-60a2-41bb-a976-df41ca38ea51)
+## Invoice
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/7f4ec093-7868-4d67-9748-194178068288)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/ab81f277-45fc-4863-bf53-04b1a38ac5cb)
+
+## Reports
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/a0bb90db-a4c4-4db9-a4a1-4d235685658c)
+
+![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/7856851a-24ba-4760-86d2-7321b158852b)
+
+You could see more in the pdf above
+
+
+
 ## Principles to Focus on:
 
 - **Normalization Principles (1NF, 2NF, 3NF):** Ensure that the database design follows normalization principles to eliminate redundancy and maintain data integrity. Review the tables and make necessary adjustments to achieve higher normalization levels.
