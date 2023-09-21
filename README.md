@@ -2,7 +2,7 @@
 
 Welcome to the Mart Management System project! This system is built using Microsoft Access and incorporates some VB (Visual Basic) and Macro elements. The project aims to manage various aspects of a mart or store, such as products, inventory, sales, and customers. Although the system might not be fully functional yet, you can contribute to its improvement and gain experience in database design and manipulation.
 
-#Data Structure
+# Data Structure
 ![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/53924b55-2c07-4fad-b328-b6f453dc14b1)
 ## Authentication Form
 ![image](https://github.com/Seavleu/Mart-Management-System/assets/86590058/d21fe5d5-b24f-4f69-96ae-b09205e284f6)
