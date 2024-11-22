@@ -4,7 +4,13 @@
 See more features below.
 # Mart Management System School Project - Instructions
 
-Welcome to the Mart Management System project! This system is built using Microsoft Access and incorporates some VB (Visual Basic) and Macro elements. The project aims to manage various aspects of a mart or store, such as products, inventory, sales, and customers. Although the system might not be fully functional yet, you can contribute to its improvement and gain experience in database design and manipulation.
+Welcome to the Mart Management System project! This project is designed to streamline the essential operations of a mart or store, such as managing products, inventory, sales, and customer data. Developed using Microsoft Access, it incorporates powerful features of Visual Basic (VB) and Macros to provide an interactive and functional database management system.
+
+The goal of this project is not only to facilitate store operations but also to serve as a learning platform for enhancing your database design, coding, and system analysis skills. While the system is currently functional, there is significant room for improvement, customization, and feature expansion. Your contributions can help refine its design, improve user experience, and add valuable functionalities.
+
+This system adheres to database design principles, emphasizing normalization to ensure data consistency and integrity. From designing tables and relationships to manipulating forms and queries, this project provides a comprehensive experience in building a robust database application.
+
+Whether you’re looking to improve your understanding of database concepts or simply want to contribute to a practical and impactful project, the Mart Management System offers the perfect opportunity to apply and enhance your skills. Let’s collaborate to make it even better! <br/>
 Demo: https://www.youtube.com/watch?v=YMdglCG9Xc0&t=1520s&pp=ygUbbWluaSBtYXJ0IG1hbmFnZW1lbnQgc3lzdGVt 
 ## **!!NOTE!!!System Design is Below**
 
